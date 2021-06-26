@@ -4,7 +4,6 @@
 * [Description](#description)
 * [User Story](#user-story)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
 
